@@ -1,11 +1,20 @@
-
 # DiscoverMSPs Website: MSP and IT Channel Data Made Easier to Find
 
 **DiscoverMSPs is a US-based B2B data and IT channel intelligence platform whose website is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. Its website brings managed service provider (MSP), managed security service provider (MSSP), value-added reseller (VAR), independent software vendor (ISV) and UCaaS provider data into clearly organised categories, helping vendors and revenue teams discover relevant markets and request a tailored data sample.**
 
-![DiscoverMSPs homepage design concept featuring MSP data categories and a sample-request journey](images/discovermsps-homepage-concept.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/discovermsps-website-mockup-new.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/discovermsps-website-mockup-new.webp" alt="DiscoverMSPs website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Cover: an original DiscoverMSPs design concept from the project files; not a verified screenshot of the current live homepage.*
+<p align="center">
+  <a href="https://discovermsps.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -48,6 +57,63 @@ This is the **communication challenge addressed by the public website**. It is n
 
 These points describe the **visible website experience**, not an independently verified implementation log or a claim that any specific technology stack or internal process was used by Tech Conversion.
 
+## Website and Project Images
+
+### Official Website Mockup
+
+The following Tech Conversion portfolio mockup presents the delivered DiscoverMSPs website as a polished project showcase.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/discovermsps-website-mockup-new.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/discovermsps-website-mockup-new.webp" alt="DiscoverMSPs responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
+
+*Click the image to open the full-resolution mockup.*
+
+### Website Transformation Overview
+
+The published Tech Conversion comparison below presents the earlier and redesigned DiscoverMSPs website side by side.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/discovermsps-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/discovermsps-before-after.webp" alt="DiscoverMSPs website redesign before and after comparison" width="100%" />
+  </a>
+</p>
+
+*This is Tech Conversion's project-presentation comparison. The full-page screenshots below provide a more detailed view of the two versions.*
+
+## Full-Length BEFORE and AFTER Comparison
+
+<table>
+  <tr>
+    <th width="50%" align="center">BEFORE — Original Website</th>
+    <th width="50%" align="center">AFTER — Redesigned Website</th>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://techconversion.tech/api/media/before-after/discovermsps-old-website-home-page.webp">
+        <img src="https://techconversion.tech/api/media/before-after/discovermsps-old-website-home-page.webp" width="100%" alt="DiscoverMSPs original website full-page screenshot before redesign" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://techconversion.tech/api/media/portfolio/discovermsps-b2b-data-platform-website-home-page.webp">
+        <img src="https://techconversion.tech/api/media/portfolio/discovermsps-b2b-data-platform-website-home-page.webp" width="100%" alt="DiscoverMSPs redesigned website full-page screenshot after redesign" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>Click either screenshot to open the full-resolution image.</strong>
+</p>
+
+### Image Provenance
+
+The mockup, before-and-after presentation, and full-length website screenshots above are embedded from Tech Conversion's public project-media endpoints. They document the website project visually; they are **not evidence of measured increases in leads, rankings, revenue or other business outcomes**.
+
+Because these images are externally hosted, their GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
+
 ## Standards Relevant to This Website
 
 The following are appropriate assessment references. **They are not certifications or independently verified results for the DiscoverMSPs project.**
@@ -59,44 +125,6 @@ The following are appropriate assessment references. **They are not certificatio
 - [GDPR](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en), [California privacy law](https://oag.ca.gov/privacy/ccpa) and [CAN-SPAM guidance](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business): relevant to certain processing and outreach activities depending on location and use case.
 
 **Verification note:** The client's published data-accuracy, data-refresh, consent and compliance statements are provider representations. The project materials do not establish an independent audit of those statements, nor do they establish a passing website accessibility, performance or security score.
-
-## Website and Project Images
-
-These **10 original images** were recovered from saved DiscoverMSPs design and Tech Conversion portfolio materials, converted to WebP and included under `images/` in this repository. They show design explorations, promotional artwork and page-layout concepts. None is labelled as a certified capture of the current production website.
-
-### Homepage and B2B Data Presentation
-
-![DiscoverMSPs homepage design concept with global data, provider segments and a sample form](images/discovermsps-homepage-concept.webp)
-
-![DiscoverMSPs B2B growth homepage concept with provider database categories](images/discovermsps-b2b-growth-concept.webp)
-
-### Full-Page Design Explorations
-
-| SaaS-style landing page concept | Alternative full homepage concept |
-|---|---|
-| ![DiscoverMSPs SaaS landing-page design concept](images/discovermsps-saas-landing-page.webp) | ![DiscoverMSPs full-page alternative website design concept](images/discovermsps-full-homepage-concept.webp) |
-
-### Conversion Flow and Website Sections
-
-![DiscoverMSPs homepage conversion-flow wireframe and section-planning artwork](images/discovermsps-conversion-flow-wireframe.webp)
-
-![DiscoverMSPs multi-section website design presentation](images/discovermsps-website-sections-concept.webp)
-
-### Portfolio Presentation
-
-![DiscoverMSPs website presented within Tech Conversion portfolio artwork](images/discovermsps-tech-conversion-portfolio-showcase.webp)
-
-*The performance-style numbers displayed inside this artwork are part of the presentation. They are not independently verified project results.*
-
-### Additional Brand and Product Concepts
-
-| Partnership visual | Global directory visual |
-|---|---|
-| ![DiscoverMSPs partnership and MSP list promotional concept](images/discovermsps-partnerships-visual.webp) | ![DiscoverMSPs global directory and MSP list promotional concept](images/discovermsps-global-directory-visual.webp) |
-
-![DiscoverMSPs interactive matching and provider discovery dashboard concept](images/discovermsps-matching-dashboard-concept.webp)
-
-**Image provenance:** The images are locally stored derivatives of saved DiscoverMSPs files, not hotlinks. Several contain sample statistics, interface elements or provider names used as illustration. Those visual elements must not be interpreted as real production analytics, independently verified database totals, actual customer records or confirmed website functionality. Image copyrights and brand marks remain with their rights holders.
 
 ## Key Visitor Journeys
 
@@ -113,9 +141,9 @@ These **10 original images** were recovered from saved DiscoverMSPs design and T
 
 ## Before and After
 
-No authenticated old-versus-new production screenshots, verified redesign chronology or comparable before-and-after test results were available in the project materials. The screenshots and illustrations above are **portfolio and design records**, not an asserted historical rebuild comparison.
+The supplied Tech Conversion assets include a presentation mockup and full-length screenshots for both the earlier and redesigned versions of the DiscoverMSPs homepage. These visuals support a **before-and-after presentation of the website project**, but they do **not** by themselves establish measured redesign outcomes such as conversion improvement, ranking growth or performance gains.
 
-For other project comparisons, see [Tech Conversion's portfolio](https://techconversion.tech/portfolio).
+For other published comparisons, see [Tech Conversion's portfolio](https://techconversion.tech/portfolio).
 
 ## Results
 
@@ -125,10 +153,19 @@ Figures shown in design illustrations or in DiscoverMSPs' marketing copy should 
 
 ## About Tech Conversion
 
-[Tech Conversion](https://techconversion.tech/) (Tech Conversion Persuasive Private Limited) is a technical and digital business-growth partner based in Chennai, India. Its public materials describe work for businesses in India, the UAE and the USA since 2024, with 50+ websites delivered.
+[Tech Conversion](https://techconversion.tech/) (Tech Conversion Persuasive Private Limited) is a technical and digital business-growth partner based in Chennai, India. Its public materials describe work for businesses in India, the UAE and the USA since 2024, with **50+ websites delivered**.
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
 
-This repository documents the **public-facing DiscoverMSPs website project**. It does not distribute private production source code, customer contacts, database records, credentials, analytics access or proprietary backend systems. The portfolio images are included solely as project presentation material, with ownership of the underlying designs and brand assets remaining with their respective rights holders.
+## Repository Scope and Image Credits
+
+This repository documents the **public-facing DiscoverMSPs website project**. It does not distribute private production source code, customer contacts, database records, credentials, analytics access or proprietary backend systems.
+
+The portfolio images, mockups and comparison screenshots are used solely as project-presentation material. Ownership of the underlying designs, brand assets and trademarks remains with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
